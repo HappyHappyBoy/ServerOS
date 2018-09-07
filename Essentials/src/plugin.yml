@@ -1,0 +1,19 @@
+name: ServerOS2
+author: JuzTn
+version: 1.0
+
+main: me.juztn.de.main.Essentials
+commands:
+  gm:
+    description: ''
+    aliases: [gamemode, gmode, mode, gm]
+  chatclear:
+    description: ''
+    aliases: [cc, clearchat]
+  heal:
+    description: '' 
+  items:
+    description: ''
+  info:
+    description: ''
+    
